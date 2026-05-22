@@ -4,6 +4,9 @@ theme: just-the-docs
 url: "https://devKwanghoKim.github.io"
 baseurl: ""
 
+aux_links:
+  GitHub: https://github.com/devKwanghoKim
+
 defaults:
   - scope:
       path: ""
