@@ -7,6 +7,8 @@ baseurl: ""
 aux_links:
   GitHub: https://github.com/devKwanghoKim
 
+color_scheme: dark
+
 defaults:
   - scope:
       path: ""
